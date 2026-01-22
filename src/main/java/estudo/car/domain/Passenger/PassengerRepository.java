@@ -1,4 +1,4 @@
-package estudo.car.domain;
+package estudo.car.domain.Passenger;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
